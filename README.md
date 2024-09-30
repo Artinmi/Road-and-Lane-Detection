@@ -26,6 +26,10 @@ This project aims to develop an efficient and robust road and lane detection sys
 ### Description
 This project implements a robust road and lane detection system for autonomous driving applications using a Convolutional Neural Network (CNN). The model has been trained on a diverse dataset comprising 10,000 images, which include various road conditions, lane markings, and environmental factors. This extensive training enables the model to generalize effectively and accurately predict road boundaries and lane markings from video captures in real-time.
 
+<p align="center">
+  <img src="https://github.com/Artinmi/Road-and-Lane-Detection/blob/master/Result/result3.gif" width="95%" alt="Leg"/>
+</p>
+
 ## CNN Model Overview
 The trained model, saved as model.h5, utilizes a CNN architecture specifically designed for image segmentation tasks. This architecture excels at identifying and classifying pixels within an image, making it ideal for detecting road lanes. The model leverages multiple convolutional layers to extract spatial hierarchies of features, followed by fully connected layers that output the predicted lane markings as binary masks overlaying the input image.
 ### Key Features
