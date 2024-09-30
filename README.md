@@ -10,14 +10,14 @@ This project aims to develop an efficient and robust road and lane detection sys
 - User-Friendly Interface: Simple interface for running the detection system with sample input data.
 
 ## Table of Contents
-1. [Road and Lane Detection Using Convolutional Neural Networks](#design-process)
-2. [CNN Model Overview](#design-process)
-3. [Object Detection Using YOLOv8](#optimization)
-4. [YOLOv8 Model Overview](#design-process)
-5. [Getting Started](#installation)
+1. [Road and Lane Detection Using Convolutional Neural Networks](#road-and-lane-detection-using-convolutional-neural-networks)
+2. [CNN Model Overview](#cnn-model-overview)
+3. [Object Detection Using YOLOv8](#object-detection-using-yolov8)
+4. [YOLOv8 Model Overview](#yolov8-model-overview)
+5. [Getting Started](#getting-started)
 6. [Usage](#usage)
-7. [Contributions](#usage)
-8. [Contact](#usage)
+7. [Contributions](#contributions)
+8. [Contact](#contact)
 
    
 ## Road and Lane Detection Using Convolutional Neural Networks
