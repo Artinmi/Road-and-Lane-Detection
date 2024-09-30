@@ -108,7 +108,7 @@ The integration of YOLOv8 for object detection enhances the functionality of the
 To get started with the project, follow these steps:
 1. Clone the Repository: Use the following command to clone the repository:
    ```
-   git clone https://github.com/Artinmi/road-lane-detection.git
+   git clone https://github.com/Artinmi/Road-and-Lane-Detection.git
 
    ```
 2. Install Dependencies: Install the necessary libraries using:
