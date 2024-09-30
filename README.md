@@ -2,7 +2,7 @@
 ## Introduction
 This project aims to develop an efficient and robust road and lane detection system tailored for self-driving vehicles. Utilizing advanced computer vision techniques, this implementation allows vehicles to recognize and navigate road boundaries and lane markings, facilitating safer and more reliable autonomous driving experiences. The system leverages image processing and deep learning algorithms to analyze video feeds from the vehicle's cameras in real-time, ensuring accurate detection in various driving conditions.
 
-- video
+
 
 - Real-Time Detection: Processes video frames in real-time to identify road lanes and boundaries.
 - Robustness: Capable of functioning in different weather conditions and lighting scenarios.
