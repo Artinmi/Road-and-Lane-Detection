@@ -152,4 +152,4 @@ If you have any questions or suggestions, feel free to reach out:
 
 - Artin Mokhtariha - [artin1382mokhtariha@gmail.com](mailto:artin1382mokhtariha@gmail.com)
 - GitHub: [Artinmi](https://github.com/Artinmi)
-- Linkedin Post:
+- Linkedin Post:[Click here](https://www.linkedin.com/posts/artin-mokhtariha-759a3b330_deeplearning-computervision-selfdrivingcars-activity-7294300399690244097-a9vt?utm_source=share&utm_medium=member_desktop)
