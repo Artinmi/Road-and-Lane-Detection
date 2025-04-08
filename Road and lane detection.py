@@ -4,7 +4,7 @@ import os
 from scipy.misc import imresize
 from moviepy.editor import VideoFileClip
 from tensorflow import keras
-2
+
 
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
