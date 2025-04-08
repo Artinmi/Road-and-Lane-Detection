@@ -5,7 +5,7 @@ from scipy.misc import imresize
 from moviepy.editor import VideoFileClip
 from tensorflow import keras
 2
-3
+
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 # Construct the path to the model file relative to the script's directory
