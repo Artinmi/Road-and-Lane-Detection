@@ -6,7 +6,7 @@ This project aims to develop an efficient and robust road and lane detection sys
 <p align="center">
   <img src="https://github.com/Artinmi/Road-and-Lane-Detection/blob/master/Result/result2.gif" width="95%" alt="Leg"/>
 </p>
-
+1
 
 - Real-Time Detection: Processes video frames in real-time to identify road lanes and boundaries.
 - Robustness: Capable of functioning in different weather conditions and lighting scenarios.
